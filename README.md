@@ -1,2 +1,1 @@
-# reactive-pokemon
-Created with CodeSandbox
+Hook practice -useEffect, useMemo, useCallback- with a pokemon pokedex.
